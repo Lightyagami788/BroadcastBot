@@ -54,24 +54,18 @@ banned_users - Show Banned Users
 ### Host Locally 🤕
 
 ```shell
-git clone https://github.com/nacbots/BroadcastBot
+git clone https://github.com/lightyagami788/BroadcastBot
 cd BroadcastBot
 pip3 install -r requirements.txt
 # EDIT config.py values appropriately
 python3 main.py
 ```
 
-## Support Group:
-
-<a href="https://t.me/NACBots"><img src="https://img.shields.io/badge/Telegram-Updates%20Channel-blue.svg?logo=telegram"></a><a href="https://t.me/n_a_c_bot_developers"><img src="https://img.shields.io/badge/Telegram-Support%20Group-blue.svg?logo=telegram"></a>
-
 ## Found a Bug 🐛
 
 ```Feel free to create a pull or create a issue now and describe your issue freely.```
 
 ## Credits
- - [@odysseusmax](https://github.com/odysseusmax)
- - [@NikhilEashy](https://github.com/nikhileashy)
- - [@MrBotDeveloper](https://github.com/MrBotDeveloper")
+ - [@Ameya](https://github.com/Lightyagami788)
 
 <a href="https://pyrogram.org"><img src="https://i.ibb.co/SVLD5k8/Document-1222546317.png" alt="pyrogram" border="0"></a>
